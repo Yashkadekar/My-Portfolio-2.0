@@ -22,7 +22,7 @@ export const projectsData = [
     tech: ["HTML", "CSS", "JavaScript"],
   },
   {
-    name: "Project Manager For Collage ",
+    name: "Project Manager For College",
     description:
       "A smart test case generator for C++ projects, powered by LLMs. It analyzes source and header files, creates comprehensive test scenarios, and reduces manual testing time by up to 80%.",
     github_link: "https://github.com/aarabii/CppTestGenAI",

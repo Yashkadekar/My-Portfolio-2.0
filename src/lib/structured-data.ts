@@ -25,7 +25,7 @@ export function generatePersonStructuredData() {
       `https://twitter.com/${selfData.socials_username.twitter}`,
       `https://instagram.com/${selfData.socials_username.instagram}`,
     ],
-    url: "https://aarab.vercel.app",
+    url: "https://yashkadekar.vercel.app",
     description: selfData.bio,
   };
 }
@@ -35,7 +35,7 @@ export function generateWebsiteStructuredData() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "Yash Kadekar - Portfolio",
-    url: "https://aarab.vercel.app",
+    url: "https://yashkadekar.vercel.app",
     description:
       "Yash Kadekar's portfolio featuring projects in React, Next.js, and modern web development",
     author: {
@@ -60,8 +60,8 @@ export function generateOrganizationStructuredData() {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: selfData.name,
-    url: "https://aarab.vercel.app",
-    logo: "https://aarab.vercel.app/images/logo.png",
+    url: "https://yashkadekar.vercel.app",
+    logo: "https://yashkadekar.vercel.app/images/logo.png",
     description: selfData.bio,
     founder: {
       "@type": "Person",
@@ -83,7 +83,7 @@ export function generateResumeStructuredData() {
     name: "Yash Kadekar Resume",
     description:
       "Professional resume of Yash Kadekar - Student Developer specializing in Full-Stack Web Development",
-    url: "https://aarab.vercel.app/resume",
+    url: "https://yashkadekar.vercel.app/resume",
     author: {
       "@type": "Person",
       name: selfData.name,
@@ -106,8 +106,8 @@ export function generateResumeStructuredData() {
     },
     dateModified: new Date().toISOString(),
     fileFormat: "application/pdf",
-    contentUrl: "https://aarab.vercel.app/docs/MyResume.pdf",
-    downloadUrl: "https://aarab.vercel.app/docs/MyResume.pdf",
+    contentUrl: "https://yashkadekar.vercel.app/docs/Yash_Kadekar_Resume.pdf",
+    downloadUrl: "https://yashkadekar.vercel.app/docs/Yash_Kadekar_Resume.pdf",
     keywords: [
       "Software Developer",
       "Full Stack Developer",

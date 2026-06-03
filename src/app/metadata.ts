@@ -15,11 +15,11 @@ export const metadata: Metadata = {
   creator: "Yash Kadekar",
   referrer: "origin-when-cross-origin",
   keywords: keywords,
-  metadataBase: new URL("https://aarab.vercel.app"),
+  metadataBase: new URL("https://yashkadekar.vercel.app"),
 
   // SEO Enhancements
   alternates: {
-    canonical: "https://aarab.vercel.app",
+    canonical: "https://yashkadekar.vercel.app",
   },
   icons: {
     icon: [

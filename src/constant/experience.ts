@@ -1,22 +1,74 @@
 export const experienceData = [
   {
-    role: "HackRx 6.0",
-    year: "Aug'25 - Present",
+    role: "LLM Intern",
+    year: "Feb 2026 - May 2026",
     description: [
-      "Engineered challenge tracks and tech puzzles for 500+ participants at HackRx 6.0, blending logic traps with creative twists to keep even seasoned devs second-guessing their instincts.",
-      "Ideated and authored 10+ problem statements across AI, Web, and Cybersecurity tracks, ensuring technical soundness and real-world relevance.",
-      "Streamlined workflows and optimized the hackathon pipeline, reducing deployment issues by 40% and improving participant experience.",
-      "Collaborated with a cross-functional team to create engaging hacker-friendly modules, balancing innovation with clear documentation."
+      "Evaluated AI-generated responses for accuracy, relevance, consistency, and overall quality.",
+      "Conducted prompt testing across multiple domains and identified hallucinations and factual inaccuracies.",
+      "Assisted in annotation, content review, and AI quality assurance workflows.",
+      "Documented evaluation findings and provided structured feedback to improve model performance.",
+      "Applied analytical reasoning and critical thinking while assessing LLM outputs."
     ],
-    company: "HackRx 6.0",
+    company: "Ethara AI",
     technologies: [
-      "HTML/CSS/JS",
-      "Hackathon Operations",
-      "Problem Design",
-      "Deployment Debugging",
-      "Team Coordination"
+      "LLM Evaluation",
+      "Prompt Testing",
+      "AI Quality Assurance",
+      "Data Annotation",
+      "Analytical Reasoning"
+    ]
+  },
+  {
+    role: "Cybersecurity Intern",
+    year: "Nov 2025 - Jan 2026",
+    description: [
+      "Worked on scripting, technical analysis, and structured problem-solving tasks.",
+      "Assisted in documentation, troubleshooting, and workflow management.",
+      "Gained practical exposure to Linux systems and secure development practices."
     ],
-    url: "https://www.hackrx.in"
+    company: "SYNTECXHUB",
+    technologies: [
+      "Linux Systems",
+      "Scripting",
+      "Secure Development",
+      "Technical Analysis",
+      "Cybersecurity"
+    ]
+  },
+  {
+    role: "Front-End Development Intern",
+    year: "Aug 2025 - Sep 2025",
+    description: [
+      "Developed responsive web interfaces using HTML, CSS, and JavaScript.",
+      "Improved UI consistency and cross-browser compatibility.",
+      "Participated in debugging and collaborative development activities."
+    ],
+    company: "Saiket Systems",
+    technologies: [
+      "HTML5 / CSS3",
+      "JavaScript",
+      "Responsive Design",
+      "Cross-Browser Compatibility",
+      "Debugging"
+    ]
+  },
+  {
+    role: "Mobile App Testing Intern",
+    year: "Jan 2025 - Aug 2025",
+    description: [
+      "Performed manual testing of Android applications.",
+      "Identified functional defects, UI inconsistencies, and usability issues.",
+      "Collaborated with developers and documented bugs for resolution.",
+      "Improved application quality through systematic validation and testing."
+    ],
+    company: "PRAM Educate IT Solutions LLP",
+    technologies: [
+      "Manual Testing",
+      "Android Testing",
+      "Bug Tracking",
+      "UI/UX Validation",
+      "Quality Assurance"
+    ]
   },
   {
     role: "PRAM Edu - Intern",
